@@ -1,2 +1,10 @@
 # TicTacToe
-This a simple TicTacToe program in code
+This a simple TicTacToe program in Java
+
+  	   |      |
+   -   +   -  +  -
+       |      | 
+   -   +   -  +   -
+       |      |
+       
+       
